@@ -1,3 +1,3 @@
-##  Machine Learning Final Project 
+# Machine Learning Final Project 
 
-# Group MEMe
+### Group MEMe

@@ -1,1 +1,3 @@
-# ml_taxi_project
+##  Machine Learning Final Project 
+
+# Group MEMe

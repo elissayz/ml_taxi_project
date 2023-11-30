@@ -2,6 +2,9 @@
 
 ### Group MEMe
 
+## Overview:
+
+The goal of this project is to work through an ML project end-to-end using the resources that we learned throughout our class at DIS.
 
 ### Resources:
 

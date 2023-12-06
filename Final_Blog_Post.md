@@ -45,6 +45,3 @@ Shoutout to ChatGPT for answering all questions big and small.
 
 
 
-## Refrences: 
-
-

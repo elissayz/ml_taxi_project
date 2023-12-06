@@ -1,24 +1,12 @@
 # Machine Learning Final Project 
 Group MEMe
 
-## Introduction:
+## Introduction: 
 
-The goal of this project is to work through an ML project end-to-end using the resources that we learned throughout our class at DIS.
+Within the metropolis of New York City, navigating the intricate web of transportation can be both a daily challenge and a financial puzzle. Our project addresses a ubiquitous problem: predicting taxi fares. In a city where prices for anything are impossible to predict, we created a tool to empower people in New York City, providing insights on how to navigate the city efficiently and economically. What may seem like an end of semester project, has high stakes: savings for individuals, reduced traffic, and a positive environmental impact.
 
-## Data:
-
-Data Source:
-Andy Chavez, DJ Sterling, Julia Elliott, Lakshmanan V, Sagar, Will Cukierski. (2018). New York City Taxi Fare Prediction. Kaggle. https://kaggle.com/competitions/new-york-city-taxi-fare-prediction
+## Understanding our Code:
 
 
-## Methods:
-
-## Results:
-
-## Learnings:
-
-## Conclusions:
-
-## Refrences: 
 
 

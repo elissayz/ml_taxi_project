@@ -7,6 +7,5 @@ Within the metropolis of New York City, navigating the intricate web of transpor
 
 ## Understanding our Code:
 
-
-
+If you would like to run this model yourself, please download both the file named ML_FP_Code.ipynb and the total_dataset.csv. Please ensure that the path variable follows the path on your computer. 
 
